@@ -1,11 +1,13 @@
+package SWExpert;
 
 
 /*
- 모든 테스트는 여기서 진행
+1926. 간단한 369게임
  */
+
 import java.util.Scanner;
 
-public class Solution {
+public class D2_GAME_369 {
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
@@ -97,5 +99,4 @@ public class Solution {
 
 
     }
- }
-
+}
