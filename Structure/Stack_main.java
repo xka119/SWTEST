@@ -48,7 +48,7 @@ class Stack<T>{
 }
 
 
-public class stack_main {
+public class Stack_main {
     public static void main(String[] args){
         Stack<Integer> s = new Stack<>();
         s.push(1);
