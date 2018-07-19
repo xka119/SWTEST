@@ -1,4 +1,4 @@
-package SWExpert;
+package SWExpert.D1;
 
 /*
 2071. 평균값 구하기

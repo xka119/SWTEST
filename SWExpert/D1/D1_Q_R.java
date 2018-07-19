@@ -1,4 +1,4 @@
-package SWExpert;
+package SWExpert.D1;
 
 /*
 2029. 몫과 나머지 출력하기

@@ -1,4 +1,4 @@
-package SWExpert;
+package SWExpert.D1;
 
 /*
 1933. 간단한 N 의 약수

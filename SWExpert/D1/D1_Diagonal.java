@@ -1,4 +1,4 @@
-package SWExpert;
+package SWExpert.D1;
 
 /*
 2027. 대각선 출력하기

@@ -1,4 +1,4 @@
-package SWExpert;
+package SWExpert.D1;
 
 /*
 2068. 최대수 구하기

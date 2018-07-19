@@ -1,23 +1,26 @@
-package SWExpert;
+package SWExpert.D1;
 
 /*
-2046. 스탬프 찍기
+2025. N줄덧셈
 
  */
 
 
 import java.util.Scanner;
 
-public class D1_Stamp {
+public class D1_Add{
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
-
-        for(int i=0; i<n; i++){
-            System.out.print("#");
+        int sum = 0;
+        for(int i=1; i<=n; i++){
+            sum += i;
         }
+        System.out.println(sum);
+
+
     }
 
 }
