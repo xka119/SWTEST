@@ -5,6 +5,7 @@ package SWExpert;
 
 LinkedList 사용
 리스트 정렬을 위한 Collections 사용
+Collections.sort(List<T> item)
  */
 import java.util.*;
 
