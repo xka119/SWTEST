@@ -1,4 +1,4 @@
-package SWExpert.D2;
+package SWExpert.D1;
 
 /*
 2056. 연월일 달력
@@ -10,7 +10,7 @@ package SWExpert.D2;
 
 import java.util.Scanner;
 
-public class D2_CALENDAR {
+public class D1_CALENDAR {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
