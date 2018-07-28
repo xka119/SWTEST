@@ -5,6 +5,7 @@ package SWExpert.D3;
 
 시간복잡도 크게 발생하는 부분을 찾기
 반복적인부분 -> 처음부터 인덱싱테이블로 구성
+String.contains,valueOf <- Good
 실행시간 1등
 */
 
