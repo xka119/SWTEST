@@ -3,8 +3,7 @@ package SWExpert.D3;
 /*
 3975. 승률 비교하기
 
-실행속도가 인터넷의 영향을 많이 받는건가??
-집에가서 테스트해보기 8/3
+실행속도가 인터넷의 영향을 많이 받는건가?? -> 아닌듯.
 */
 
 import java.io.BufferedReader;
