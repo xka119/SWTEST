@@ -1,11 +1,14 @@
 
 /*
- 모든 테스트는 여기서 진행
+ SW Expert
 
- */
-public class Solution {
-    public static void main(String[] args){
+*/
 
+
+public class Solution{
+    public static void main(String args[]) throws Exception {
+
+        // Test
 
     }
 }
