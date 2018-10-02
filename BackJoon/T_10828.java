@@ -9,7 +9,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Stack {
+public class T_10828 {
     //정적 스택
     static int index;
     static int[] stack = new int[100000];
