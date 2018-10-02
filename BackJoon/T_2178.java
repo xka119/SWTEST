@@ -42,7 +42,6 @@ public class T_2178 {
         //target dot;
         int targetX = n - 1;
         int targetY = m - 1;
-        Index a = new Index();
         //x,y 회전
         int[] dx = {-1,0,1,0};
         int[] dy = {0,1,0,-1};
