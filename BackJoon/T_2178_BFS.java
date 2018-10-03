@@ -14,7 +14,7 @@ import java.util.Queue;
 
 
 
-public class T_2178 {
+public class T_2178_BFS {
     static class Index{
         int x,y;
         public Index(int x, int y){
