@@ -1,4 +1,4 @@
-package SWExpert.D4;
+package SWExpert.SWtest;
 
 
 import java.io.BufferedReader;
@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 1222. [S/W 문제해결 기본] 6일차 - 계산기1
 
  */
-public class D4_1222 {
+public class T_1222 {
     static int t = 10;
     static StringBuilder sb = new StringBuilder();
     public static void main(String[] args) throws IOException {
