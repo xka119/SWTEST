@@ -11,7 +11,7 @@ package BackJoon;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class WriteSeqNum {
+public class T_1748 {
     public static void main(String args[]) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

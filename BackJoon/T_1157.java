@@ -9,7 +9,7 @@ package BackJoon;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class WordStudy {
+public class T_1157 {
     public static void main(String args[]) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
